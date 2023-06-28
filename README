@@ -1,4 +1,5 @@
-** House price prediction with RMSE, R-Square performance metrics **
+**House price prediction with RMSE, R-Square performance metrics**
+
 The house price prediction modeling aims to develop an accurate and reliable system to estimate prices of residential properties by analysing various factors such as location, area, renovation and built year, and quality score.
 
 Multiple ML models (Linear Regression, Decision tree, Random Forest, Ensemble models - Boosting, XG Boost etc) will be created and there performance will be evaluated using performance metrics - RMSE, R-Square performance metrics
